@@ -64,7 +64,6 @@
 <script>
     export default {
         name: 'app',
-        methods: {}
     }
 </script>
 
